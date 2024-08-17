@@ -1,26 +1,15 @@
-### Hi there 👋
+### ¡Hola, amigo!
 
 <h2>I'm Dinesh Kumar.</h2>
 
+- 🌱 I’m currently learning MCA Full Stack Engineering
+- 🔭 I’m currently working at Sunsys Technologies, Bangalore
+- 💬 About me - I am passionate about web development and been starting to pick the skills ever since out of college. I am an optimist thinking ahead in time, and I always try to lean something new.
 
 
-<p>
-<a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravanaraja25&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saravanaraja25&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanaraja25" alt="Saravana Raja" /> </p>
-<h3 style="text-align:center;"> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://saravanaraja.me"><img src="https://img.shields.io/badge/-saravanaraja.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/saravanaraja25"><img src="https://img.shields.io/badge/-Saravana%20Raja-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
- </p>
 
 <!--
-**saravanaraja25/saravanaraja25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dineshvoithu/dineshvoithu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
