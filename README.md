@@ -2,7 +2,7 @@
 
 <h2>I'm Dinesh Kumar.</h2>
 
-- 🌱 I’m currently learning MCA Full Stack Engineering
+- 🌱 I’m currently learning MCA Full Stack Development
 - 🔭 I’m currently working at Sunsys Technologies, Bangalore
 - 💬 About me - I am passionate about web development and been starting to pick the skills ever since out of college. I am an optimist thinking ahead in time, and I always try to lean something new.
 
